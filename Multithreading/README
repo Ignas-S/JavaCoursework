@@ -1,0 +1,3 @@
+Introductory program to multithreading
+
+Calculates pi and e^x on different threads using taylor series
